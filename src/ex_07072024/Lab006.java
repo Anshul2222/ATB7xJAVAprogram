@@ -1,4 +1,0 @@
-# JAVA PROGRAMS
-
- - Core java
-
